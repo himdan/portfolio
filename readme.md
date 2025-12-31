@@ -1,4 +1,4 @@
-# Software Engineer Portfolio
+# Full-stack web developer Portfolio
 
 This repository showcases a selection of professional projects I have worked on over the years as a **Full-Stack Web Developer** and **Team Lead**.  
 My experience spans public-sector platforms, SaaS products, high-availability systems, data-driven applications, and compliance-critical solutions.
@@ -19,7 +19,7 @@ I have led and contributed to projects from **initial system design** to **produ
 ## 📌 Featured Projects
 
 ### 🏢 Public Real Estate Systems Modernization
-**Role:** Team Lead / Software Engineer  
+**Role:** Team Lead / Full-stack web developer  
 **Duration:** 2 Years  
 
 Led the modernization of three public-sector applications for real estate registration and leasing. Managed teams of up to 10 developers and delivered a full system rewrite, including a microservices architecture and a complex multi-DBMS data migration.
@@ -36,7 +36,7 @@ Angular, Java, Spring Boot, Microservices, PostgreSQL, Oracle, SQL Server
 ---
 
 ### 📊 Developer Insights & Metrics Platform
-**Role:** Team Lead / Software Engineer  
+**Role:** Team Lead / Full-stack web developer  
 **Duration:** 2 Years  
 
 Designed and delivered a platform that provides actionable insights into developer productivity using KPIs and metrics. Integrated multiple external data sources and delivered intuitive dashboards for performance analysis.
@@ -52,7 +52,7 @@ Python, Airflow, PHP, Symfony, Angular, GitHub API, GitLab API, Microsoft Azure
 ---
 
 ### 🎓 Professional Training Platform (Public Sector)
-**Role:** Team Lead / Software Engineer  
+**Role:** Team Lead / Full-stack web developer  
 **Duration:** 2 Years  
 
 Built a national professional training platform from scratch for the public sector. Addressed complex domain rules and modernized training workflows across institutions.
@@ -68,7 +68,7 @@ PHP, Symfony, Angular, MySQL
 ---
 
 ### 🛡️ GDPR Compliance Platform
-**Role:** Team Lead / Software Engineer  
+**Role:** Team Lead / Full-stack web developer  
 **Duration:** 2 Years  
 
 Designed and implemented a GDPR compliance platform to manage data privacy requirements and regulatory obligations, including real-time monitoring and notifications.
