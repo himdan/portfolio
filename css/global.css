@@ -175,7 +175,7 @@
             width: 400px;
             height: 400px;
             border-radius: 50%;
-            /*background: linear-gradient(135deg, var(--primary), var(--primary-dark));*/
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
             display: flex;
             align-items: center;
             justify-content: center;
@@ -526,6 +526,11 @@
             }
             
             .avatar {
+                width: 200px;
+                height: 200px;
+            }
+
+            .avatar > img {
                 width: 200px;
                 height: 200px;
             }
